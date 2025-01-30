@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\스택">
+      <UniqueIdentifier>{dcec47d3-e28f-458e-84e4-635cd36e46ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\배열">
+      <UniqueIdentifier>{4fdd6103-b9a0-42df-b5c4-9bced5aba5f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택\정답코드">
+      <UniqueIdentifier>{583e3528-a056-4777-a707-8b5a31e53b15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\큐">
+      <UniqueIdentifier>{9925bb0e-9df2-4a19-b583-8688bce53f03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\해시">
+      <UniqueIdentifier>{a5686c88-660f-480f-bf52-e0513ae132fd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리">
+      <UniqueIdentifier>{305712bd-9048-4619-88b0-0aa9299582d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\트리\정답코드">
+      <UniqueIdentifier>{7a472d09-e0e6-4be0-b64a-94d4a032834f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\집합">
+      <UniqueIdentifier>{8a309fe8-e343-41dc-b84d-d002d2531718}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프">
+      <UniqueIdentifier>{58a3a6df-9c04-493d-ae28-0de4400c8d96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그래프\정답코드">
+      <UniqueIdentifier>{5c399a7b-6104-4eb5-8f38-0ae22ceb6720}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백트래킹">
+      <UniqueIdentifier>{da8bf9d4-8037-4587-8b9e-2045f65eb676}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\시뮬레이션">
+      <UniqueIdentifier>{6adc39d5-4be7-4e8d-91a8-187a31807f0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\시뮬레이션\정답코드">
+      <UniqueIdentifier>{d9c58858-9cee-4d95-9d4b-0a9cef8279bc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\NewFilter1">
+      <UniqueIdentifier>{a34e543e-47d9-4e18-b2b0-a27e826954d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\배열\정답코드">
+      <UniqueIdentifier>{a6445bdd-87bf-4f23-be87-bf839d80efb5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\해시\정답코드">
+      <UniqueIdentifier>{0b04bd17-2c71-409e-af0d-78c40ca3fe89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="초기코드.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="12_주식 가격.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="8_괄호 짝 맞추기.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="11_짝지어 제거하기.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="스택예제.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="9_10진수를 2진수로 변환하기.cpp">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="방문 길이.cpp">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="13_크레인 인형 뽑기 게임.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="13_크레인  인형 뽑기 게임_정답.cpp">
+      <Filter>소스 파일\스택\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="13_크레인 인형 뽑기 게임_스택버전.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="요세푸스 문제.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="16_기능 개발.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="16_기능 개발_upgrade.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="18_두 개의 수로 특정 값 만들기.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="19_문자열 해싱을 이용한 검색 함수 만들기.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="20_완주하지 못한 선수.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="21_영어 끝말잇기.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="22_전화번호 목록_정렬.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="22_전화번호 목록_해시.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="24_오픈채팅방.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="28_트리 순회.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="29_이진 탐색 트리 구현.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="30_예상 대진표.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="30_예상 대진표_효율적.cpp">
+      <Filter>소스 파일\트리\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="31_다단계 칫솔 판매_실패.cpp">
+      <Filter>소스 파일\트리</Filter>
+    </ClCompile>
+    <ClCompile Include="31_다단계 칫솔 판매_정답.cpp">
+      <Filter>소스 파일\트리\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="31_다단계 칫솔 판매_재귀.cpp">
+      <Filter>소스 파일\트리\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="33_간단한 유니온-파인드 알고리즘 구현하기.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="인접리스트 구현.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="BFS.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="38_다익스트라_우선순위큐.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="40_미로탈출.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="41_게임 맵 최단거리.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="42_네트워크.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="44_배달.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="46_전력망을 둘로 나누기.cpp">
+      <Filter>소스 파일\그래프</Filter>
+    </ClCompile>
+    <ClCompile Include="46_전력망을 둘로 나누기_효율적.cpp">
+      <Filter>소스 파일\그래프\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="47_1부터 N까지 숫자 중 합이 10이 되는 조합 구하기.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="48_스도쿠 퍼즐_실패.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="49_피로도.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="50_N-퀸.cpp">
+      <Filter>소스 파일\백트래킹</Filter>
+    </ClCompile>
+    <ClCompile Include="62_배열 회전하기.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="63_두 행렬을 곱한 후 전치 행렬 만들기.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="64_달팽이 수열 만들기.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="65_이진 변환.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="65_이진 변환_정답.cpp">
+      <Filter>소스 파일\시뮬레이션\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="66_롤케이크 자르기.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="67_카팻.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="68_점프와 순간 이동.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="69_캐릭터의 좌표.cpp">
+      <Filter>소스 파일\시뮬레이션</Filter>
+    </ClCompile>
+    <ClCompile Include="1_배열 정렬하기.cpp">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="2_배열 제어하기.cpp">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="2_배열 제어하기_정답.cpp">
+      <Filter>소스 파일\배열\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="행렬의 곱셈.cpp">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="6_실패율.cpp">
+      <Filter>소스 파일\배열</Filter>
+    </ClCompile>
+    <ClCompile Include="6_실패율_정답코드.cpp">
+      <Filter>소스 파일\배열\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="10_괄호 회전하기.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="14_표 편집_정답코드.cpp">
+      <Filter>소스 파일\스택\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="14_표 편집.cpp">
+      <Filter>소스 파일\스택</Filter>
+    </ClCompile>
+    <ClCompile Include="17_카드 뭉치.cpp">
+      <Filter>소스 파일\큐</Filter>
+    </ClCompile>
+    <ClCompile Include="23_할인 행사.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="25_베스트 앨범.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="26_신고 결과 받기.cpp">
+      <Filter>소스 파일\해시</Filter>
+    </ClCompile>
+    <ClCompile Include="26_신고 결과 받기_정답코드.cpp">
+      <Filter>소스 파일\해시\정답코드</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
