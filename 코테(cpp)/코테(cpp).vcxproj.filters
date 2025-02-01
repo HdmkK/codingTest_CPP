@@ -52,14 +52,17 @@
     <Filter Include="소스 파일\시뮬레이션\정답코드">
       <UniqueIdentifier>{d9c58858-9cee-4d95-9d4b-0a9cef8279bc}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\NewFilter1">
-      <UniqueIdentifier>{a34e543e-47d9-4e18-b2b0-a27e826954d6}</UniqueIdentifier>
-    </Filter>
     <Filter Include="소스 파일\배열\정답코드">
       <UniqueIdentifier>{a6445bdd-87bf-4f23-be87-bf839d80efb5}</UniqueIdentifier>
     </Filter>
     <Filter Include="소스 파일\해시\정답코드">
       <UniqueIdentifier>{0b04bd17-2c71-409e-af0d-78c40ca3fe89}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\DP">
+      <UniqueIdentifier>{a34e543e-47d9-4e18-b2b0-a27e826954d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\그리디">
+      <UniqueIdentifier>{43aef79b-9ec6-48e5-bf67-b09ff4fb7c32}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -260,6 +263,36 @@
     </ClCompile>
     <ClCompile Include="26_신고 결과 받기_정답코드.cpp">
       <Filter>소스 파일\해시\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="70_LCS 길이 계산하기.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="71_LIS 길이 계산하기.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="72_조약돌 문제.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="73_피보나치 수.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="74_2 x n 타일링.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="75_정수 삼각형.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="76_땅따먹기.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="77_가장 큰 정사각형 찾기.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="최소신장트리_프림.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="최소신장트리_크루스칼.cpp">
+      <Filter>소스 파일\그리디</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
