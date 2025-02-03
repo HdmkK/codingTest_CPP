@@ -64,6 +64,12 @@
     <Filter Include="소스 파일\그리디">
       <UniqueIdentifier>{43aef79b-9ec6-48e5-bf67-b09ff4fb7c32}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{adb5d592-b880-491f-8a7b-bbc97d85e2b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\정렬\정답코드">
+      <UniqueIdentifier>{fb68a07e-d217-4fb1-b1c3-7c415b6642ad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -293,6 +299,51 @@
     </ClCompile>
     <ClCompile Include="최소신장트리_크루스칼.cpp">
       <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="80_거스름돈 주기.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="81_부분 배낭 문제.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="0\쪼갤 수 없는 배낭문제.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="82_예산.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="83_구명보트.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="84_귤 고르기.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="55_정렬이 완료된 두 배열 합치기.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="85_기지국 설치.cpp">
+      <Filter>소스 파일\그리디</Filter>
+    </ClCompile>
+    <ClCompile Include="56_문자열 내 마음대로 정렬하기.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="57_정수 내림차순으로 배치하기.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="57_정수 내림차순으로 배치하기_정답코드.cpp">
+      <Filter>소스 파일\정렬\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="58_K번째 수.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="59_가장 큰 수.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="59_가장 큰 수_정답코드.cpp">
+      <Filter>소스 파일\정렬\정답코드</Filter>
+    </ClCompile>
+    <ClCompile Include="60_튜플.cpp">
+      <Filter>소스 파일\정렬</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
