@@ -70,6 +70,9 @@
     <Filter Include="소스 파일\정렬\정답코드">
       <UniqueIdentifier>{fb68a07e-d217-4fb1-b1c3-7c415b6642ad}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\모의고사">
+      <UniqueIdentifier>{efc20fd8-4e84-4880-8552-9958b9bb6b69}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="test.cpp">
@@ -344,6 +347,27 @@
     </ClCompile>
     <ClCompile Include="60_튜플.cpp">
       <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="34_폰켓몬.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="35_섬 연결하기.cpp">
+      <Filter>소스 파일\집합</Filter>
+    </ClCompile>
+    <ClCompile Include="87_택배 배달 수거하기.cpp">
+      <Filter>소스 파일\모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="88_개인정보 수집 유효기간.cpp">
+      <Filter>소스 파일\모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="90_쿼드압축 후 개수 세기.cpp">
+      <Filter>소스 파일\모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="91_없는 숫자 더하기.cpp">
+      <Filter>소스 파일\모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="94_거리두기 확인하기.cpp">
+      <Filter>소스 파일\모의고사</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
