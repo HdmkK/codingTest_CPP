@@ -14,18 +14,18 @@ int dx[] = { 0, 0, 1, -1 };
 int dy[] = { 1, -1, 0, 0 };
 
 int main() {
-	
+
 	input();
 
 	cout << dfs(0, 0) << endl;
-	
+
 
 	return 0;
 }
 
 //c_x, c_y에서 M-1, N-1까지의 경로 개수를 반환
 int dfs(int c_x, int c_y) {
-	
+
 	if (c_x == M - 1 && c_y == N - 1) return 1;
 	if (dp[c_x][c_y] != -1) return dp[c_x][c_y];
 

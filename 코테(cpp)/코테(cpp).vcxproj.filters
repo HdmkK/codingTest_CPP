@@ -73,11 +73,14 @@
     <Filter Include="소스 파일\모의고사">
       <UniqueIdentifier>{efc20fd8-4e84-4880-8552-9958b9bb6b69}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\소프티어">
+      <UniqueIdentifier>{3c84e1ea-8561-4347-8b55-d81802bf6311}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\백준">
+      <UniqueIdentifier>{40781c5a-7f19-4542-9ac6-1d10b43c44c3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="초기코드.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -368,6 +371,90 @@
     </ClCompile>
     <ClCompile Include="94_거리두기 확인하기.cpp">
       <Filter>소스 파일\모의고사</Filter>
+    </ClCompile>
+    <ClCompile Include="100_로또의 최고 순위와 최저 순위.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="27_메뉴 리뉴얼.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="32_길 찾기 게임.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="43_양과 늑대.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GPT식 숫자 비교.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="나무 공격.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="77_도둑질.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="나무 섭지.cpp">
+      <Filter>소스 파일\소프티어</Filter>
+    </ClCompile>
+    <ClCompile Include="루돌프 월드컵.cpp">
+      <Filter>소스 파일\소프티어</Filter>
+    </ClCompile>
+    <ClCompile Include="올림픽.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="덩치_풀이1.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="비밀번호 발음하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="임스와 함께하는 미니게임.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="쿠키의 신체 측정.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="스티커.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 1.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="파도반 수열.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="동전 2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="타일 채우기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="스위치 켜고 끄기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="어두운 굴다리.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="카드2.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="주유소_풀이1.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="영단어 암기는 괴로워.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="예산.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="로봇 조종하기.cpp">
+      <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="내리막길.cpp">
+      <Filter>소스 파일\백준</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
