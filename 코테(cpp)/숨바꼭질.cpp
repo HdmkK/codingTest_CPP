@@ -26,7 +26,7 @@ int main() {
 			cout << depth << endl;
 			break;
 		}
-		
+
 		int n_x = cur + 1;
 
 		if (n_x <= 100000 && visited.count(n_x) == 0) {
@@ -37,17 +37,17 @@ int main() {
 		n_x = 2 * cur;
 
 		if (n_x > 0 && n_x <= 200000 && visited.count(n_x) == 0) {
-			q.push({ n_x, depth + 1});
+			q.push({ n_x, depth + 1 });
 			visited.insert(n_x);
 		}
-		
+
 		n_x = cur - 1;
 
 		if (n_x >= 0 && visited.count(n_x) == 0) {
 			q.push({ n_x, depth + 1 });
 			visited.insert(n_x);
 		}
-		
+
 	}
 	return 0;
 }
