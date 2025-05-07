@@ -79,6 +79,9 @@
     <Filter Include="소스 파일\백준">
       <UniqueIdentifier>{40781c5a-7f19-4542-9ac6-1d10b43c44c3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\프로그래머스">
+      <UniqueIdentifier>{6d5c3d04-a6cb-4a00-aa99-9205374b1280}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="초기코드.cpp">
@@ -569,6 +572,15 @@
     </ClCompile>
     <ClCompile Include="완전범죄.cpp">
       <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="내려가기.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="트리의 독립집합.cpp">
+      <Filter>소스 파일\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="양궁대회.cpp">
+      <Filter>소스 파일\프로그래머스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
