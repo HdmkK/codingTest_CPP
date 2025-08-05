@@ -82,6 +82,12 @@
     <Filter Include="소스 파일\프로그래머스">
       <UniqueIdentifier>{6d5c3d04-a6cb-4a00-aa99-9205374b1280}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\민코딩">
+      <UniqueIdentifier>{e3ad87c4-9a54-4931-9d54-0d18d9f19b6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\B형 대비">
+      <UniqueIdentifier>{6989ddb4-8722-4df1-a975-5da45ae572ba}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="초기코드.cpp">
@@ -405,7 +411,7 @@
     <ClCompile Include="올림픽.cpp">
       <Filter>소스 파일\백준</Filter>
     </ClCompile>
-    <ClCompile Include="test.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="덩치_풀이1.cpp">
@@ -605,6 +611,27 @@
     </ClCompile>
     <ClCompile Include="감시.cpp">
       <Filter>소스 파일\백준</Filter>
+    </ClCompile>
+    <ClCompile Include="싯가 탕후루.cpp">
+      <Filter>소스 파일\민코딩</Filter>
+    </ClCompile>
+    <ClCompile Include="오목.cpp">
+      <Filter>소스 파일\민코딩</Filter>
+    </ClCompile>
+    <ClCompile Include="알베르토의 현대미술.cpp">
+      <Filter>소스 파일\민코딩</Filter>
+    </ClCompile>
+    <ClCompile Include="영어 시간.cpp">
+      <Filter>소스 파일\민코딩</Filter>
+    </ClCompile>
+    <ClCompile Include="solution.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="하강 모의 실험.cpp">
+      <Filter>소스 파일\민코딩</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

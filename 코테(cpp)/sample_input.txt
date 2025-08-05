@@ -1,0 +1,37 @@
+1 100
+35
+100 4 12 5 12 9 9 12 14 11 9 6 15 10 5 7 11 10 chengpu sunce huanggai caozhi liuzhang xiahouyuan lingtong caopi yuanshu machao guanyu caoren weiyan huangzhong lukang xuhuang 
+300 chengpu lingtong 1
+300 machao lingtong 1
+500 machao 3 0 9
+500 chengpu 6 1 53
+300 guanyu xuhuang 1
+400 chengpu machao ganada -1
+400 chengpu xuhuang gaboja -2
+400 chengpu guanyu chacha 0
+500 xuhuang 10 1 28
+400 guanyu lukang igija 1
+300 igija chengpu -2
+300 weiyan huangzhong 1
+300 liuzhang xiahouyuan 1
+500 igija 10 0 12
+400 huangzhong igija jjukkumi 0
+300 caozhi caopi 1
+300 caoren caozhi 1
+300 sunce xuhuang 1
+400 caozhi huanggai holro 0
+300 yuanshu huanggai 1
+300 caopi yuanshu -2
+300 xiahouyuan yuanshu 1
+500 guanyu 10 1 69
+500 weiyan 20 0 25
+500 xiahouyuan 7 1 61
+300 liuzhang huanggai -1
+400 huanggai machao biribiri 1
+300 biribiri chengpu -2
+300 caozhi chengpu 1
+500 lingtong 20 1 144
+500 biribiri 22 0 34
+500 xiahouyuan 24 0 34
+400 yuanshu guanyu nononono 0
+400 sunce caopi noway 0
